@@ -1,0 +1,6 @@
+django
+django-crispy-forms
+youtube-search-python
+requests
+wikipedia
+dictionary
