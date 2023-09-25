@@ -26,8 +26,8 @@ The features of this application are divided into 8, and each feature itself act
 
     ![image](https://github.com/sudippokhrel/Project-II/assets/106923052/2c2d4576-195d-42f1-a0fd-7c5d69c08dce)
 
-
-  ![image](https://github.com/sudippokhrel/Project-II/assets/106923052/80d3bfd7-5d47-4632-8ddf-2a60b32933af)
+![image](https://github.com/sudippokhrel/Student-Study-System/assets/106923052/98aa408e-d59e-4be2-8a06-3c70cc4c3ad3)
+![image](https://github.com/sudippokhrel/Project-II/assets/106923052/80d3bfd7-5d47-4632-8ddf-2a60b32933af)
 
 
 
